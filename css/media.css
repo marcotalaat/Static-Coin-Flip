@@ -38,6 +38,9 @@
     aside .input-chat{
         width: 95%;
     }
+    aside .level-system .counter{
+        left: 11%;
+    }
     /*========================*/
     .second-header,
     .content {
@@ -188,15 +191,5 @@
     }
     .small-img img{
         padding: 50px;
-    }
-}
-
-/*Media Query for Med screen*/
-@media (min-width: 992px) and (max-width: 1284px) {
-    .content .btns-cont{
-        padding: 15px 24px;
-        position: absolute;
-        right: -38px;
-        top: 9px;
     }
 }
