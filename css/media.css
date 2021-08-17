@@ -193,5 +193,10 @@
 
 /*Media Query for Med screen*/
 @media (min-width: 992px) and (max-width: 1284px) {
-
+    .content .btns-cont{
+        padding: 15px 24px;
+        position: absolute;
+        right: -38px;
+        top: 9px;
+    }
 }
